@@ -1,0 +1,3 @@
+<div>
+    Customer Dashboard
+</div>
